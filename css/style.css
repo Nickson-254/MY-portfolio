@@ -1,0 +1,34 @@
+body{
+    background-color:lightblue;
+    background-size:cover; 
+}
+h1{
+    text-align: center;
+}
+.main-nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: space-evenly;
+}
+h2{
+    color:blue;
+    text-align:center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .main-footer{
+    list-style: none;
+    height: 70px;
+    background-color: green;
+    font-weight: inherit;
+    background-size: cover;
+    text-decoration: none;
+    justify-content: space-between;
+}
